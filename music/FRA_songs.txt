@@ -23,3 +23,27 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "ravachol"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			TAG = FRA
+			has_government = anarchism
+		}
+	}
+}
+
+music = {
+	song = "octobre"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 2
+			TAG = FRA
+			has_government = vanguard_socialism
+		}
+	}
+}

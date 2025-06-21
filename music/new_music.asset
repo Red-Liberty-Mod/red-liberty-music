@@ -157,3 +157,16 @@ music = {
 	file = "FRA/FRA_quand_fera_t_il_jour_camarade.ogg"
 	volume = 1
 }
+
+music = {
+	name = "ravachol"
+	file = "FRA/FRA_ravachol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "octobre"
+	file = "FRA/FRA_octobre.ogg"
+	volume = 1
+}
+
